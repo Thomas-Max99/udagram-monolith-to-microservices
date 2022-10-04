@@ -10,5 +10,5 @@ data:
   AWS_BUCKET: test-thomas-dev
   AWS_REGION: us-east-1
   AWS_PROFILE: default
-  JWT_SECRET: lognsnnsnnsfn
+  JWT_SECRET: smdmmsfm
   URL: http://localhost:8100

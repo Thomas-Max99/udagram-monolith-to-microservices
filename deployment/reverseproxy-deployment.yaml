@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: reverseproxy
-          image: thomasdevs/reverseproxy:v4
+          image: thomasdevs/reverseproxy:v1
           imagePullPolicy: Always
           resources:
             requests:
