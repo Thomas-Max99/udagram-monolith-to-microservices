@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: env-config
+data:
+  POSTGRES_USERNAME: thomas
+  POSTGRES_PASSWORD: Thomas1234
+  POSTGRES_HOST: cder.cxeosauriwfp.us-east-1.rds.amazonaws.com
+  POSTGRES_DB: Thomas1234
+  AWS_BUCKET: test-thomas-dev
+  AWS_REGION: us-east-1
+  AWS_PROFILE: default
+  JWT_SECRET: lognsnnsnnsfn
+  URL: http://localhost:8100
